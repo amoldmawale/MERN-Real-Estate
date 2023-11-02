@@ -1,8 +1,12 @@
 To install react setup
 - npm create vite@latest client
 
-In client folder
-
 To add talwind CSS 
 - npm install -D tailwindcss postcss autoprefixer
 - npx tailwindcss init -p
+
+To install react router dom
+- npm i react-router-dom
+
+To install icons
+- npm i react-icons
